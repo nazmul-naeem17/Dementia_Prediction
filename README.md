@@ -1,11 +1,11 @@
 # Dementia Prediction
-This repository contains **a machine learning project** aimed at predicting dementia using a dataset of patient information. The goal of this project is to build predictive models that can assist in early diagnosis and treatment planning for dementia.
+This repository contains a machine learning project to predict dementia using a dataset of patient information. The project aims to build predictive models that can assist in early diagnosis and treatment planning.
 ---
 ## Features
-**Data Preprocessing:** Handles missing values, encodes categorical variables, and scales numeric features.
-**Exploratory Data Analysis (EDA):** Provides insights into the dataset through visualizations and statistical analysis.
-**Modeling:** Implements various machine learning models to predict dementia status.
-**Evaluation:** Compares model performance using metrics such as accuracy, precision, recall, and F1-score.
+1. **Data Preprocessing:** Handles missing values, encodes categorical variables and scales numeric features.
+2. **Exploratory Data Analysis (EDA):** Provides insights into the dataset through visualizations and statistical analysis.
+3. **Modeling:** Implements various machine learning models to predict dementia status.
+4. **Evaluation:** Compares model performance using metrics such as accuracy, precision, recall, and F1-score.
 ---
 ### Key Components
 1. **Data Preparation:**
